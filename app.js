@@ -3,7 +3,7 @@ const body = document.querySelector('body')
 const color = ['voilet', 'green', '#32a852', '#78cf8f', '#65afcf', '#8565cf']
 
 
-body.style.backgroundColor = 'red';
+body.style.backgroundColor = '#FAF9F6';
 
 button.addEventListener('click', function () {
     let colorindex = parseInt(Math.random() * color.length);
