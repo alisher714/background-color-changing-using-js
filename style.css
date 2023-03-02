@@ -1,0 +1,14 @@
+button {
+    width: 300px;
+    height: 100px;
+    color: rgb(0, 0, 0);
+    background: grey;
+    border: none;
+    border-radius: 6px;
+    margin-left: 38vw;
+    margin-top: 40vh;
+    cursor: pointer;
+    font-weight: 700;
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+}
